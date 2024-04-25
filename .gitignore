@@ -4,8 +4,11 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+
 # Other files and folders
 .settings/
+bert_vectors
+bert_vectors_200
 
 # Executables
 *.swf
