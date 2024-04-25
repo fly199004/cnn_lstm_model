@@ -7,8 +7,16 @@ bin-release/
 
 # Other files and folders
 .settings/
+<<<<<<< HEAD
 bert_vectors
 bert_vectors_200
+=======
+bert_vectors  
+bert_vectors_200
+# 超过100M，无法提交
+trained_cnn_model.h5
+
+>>>>>>> 250bda3 (提交实验文件)
 
 # Executables
 *.swf
