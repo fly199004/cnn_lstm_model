@@ -49,6 +49,8 @@
 - svm_model.ipynb，训练SVM模型
 - test_score.ipynb, 加载保存好的模型文件，加载数据，然后评估模型评估参数
 - cnn_lstm_model-V.ipynb，成功运行之后，更换超参数设置
+- bert_visual.ipynb, bert向量表征化的可视化效果
+- draw.ipynb， 绘制了实验结果各种折线图、雷达图等
 
 ## 图片文件
 
